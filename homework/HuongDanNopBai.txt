@@ -1,0 +1,7 @@
+1: Mỗi nhóm cử đại diện 1 người nộp bài
+2 : Vào file Nopbai trong phần "Edit file" , mọi người ghi Tên Nhóm và Tên, MSSV người nộp bài
+3 : Kéo xuống phần "Propose change" có dòng dưới update ghi mssv của mình và các thành viên trong nhóm . Rồi nhấn nút màu xanh lá Propose changes . 
+4 : Nhấn vào nút Create pull request 
+5 : Trong phần "Write" , mọi người kéo thả file bài làm vào
+6 : Đợi file upload lên và nhấn nút xanh Create pull request 
+Lưu Ý file lưu dưới định dạng pdf (NhomX.pdf)
